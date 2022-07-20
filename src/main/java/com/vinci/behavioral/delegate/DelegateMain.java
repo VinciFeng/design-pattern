@@ -1,6 +1,7 @@
 package com.vinci.behavioral.delegate;
 
 /**
+ * 委派模式
  * @author Vinci
  * @date 2022/07/19
  */
